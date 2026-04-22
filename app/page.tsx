@@ -17,6 +17,8 @@ export default function Page() {
           background: "black",
           color: "white",
           border: "none",
+          borderRadius: 8,
+          cursor: "pointer",
         }}
       >
         点了 {count} 次
